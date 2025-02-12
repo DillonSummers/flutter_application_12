@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Jean Paul Gonzalez
 Kaleb Antoine
 <<<<<<< HEAD
@@ -5,3 +6,19 @@ Sebastian Escobar-Mesa
 =======
 Kyler Martin-Yeboah
 >>>>>>> ab9437db72d63bda990bd462b85a7559ba7b72b6
+=======
+
+
+Erich Krueger
+Ronald Gibson
+Jean Paul Gonzalez
+Kaleb Antoine
+Kaleb Antoine
+Kyler Martin-Yeboah
+
+Jean Paul Gonzalez
+Kaleb Antoine
+Robert Smith
+
+Maureen Sanchez
+>>>>>>> 4997748eccad7ccd722d40024720a4a5572f1810
