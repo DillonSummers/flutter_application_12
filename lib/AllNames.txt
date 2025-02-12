@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+CLVEELAND
+=======
+<<<<<<< HEAD
 Jean Paul Gonzalez
 Eberechi Nwosu
 Kaleb Antoine
@@ -8,7 +11,7 @@ Sebastian Escobar-Mesa
 Kyler Martin-Yeboah
 >>>>>>> ab9437db72d63bda990bd462b85a7559ba7b72b6
 =======
-
+Hunter D'Arensbourg
 
 
 
@@ -26,6 +29,7 @@ Maureen Sanchez
 
 
 
+>>>>>>> af2fce731011c580476f818c3b3667513926a7be
 
 
 
