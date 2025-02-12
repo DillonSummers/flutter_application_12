@@ -1,31 +1,4 @@
-<<<<<<< HEAD
-Jean Paul Gonzalez
-Eberechi Nwosu
-Kaleb Antoine
-<<<<<<< HEAD
-Sebastian Escobar-Mesa
-=======
-Kyler Martin-Yeboah
->>>>>>> ab9437db72d63bda990bd462b85a7559ba7b72b6
-=======
-
-
-
-
-<<<<<<< HEAD
-Maureen Sanchez
->>>>>>> 4997748eccad7ccd722d40024720a4a5572f1810
-=======
-
-
-
-
-
-
-
-
-
-
+CLVEELAND
 
 
 
