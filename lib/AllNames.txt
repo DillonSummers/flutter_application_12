@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-Ronald Gibson
-=======
 Jean Paul Gonzalez
 Kaleb Antoine
->>>>>>> 6c90c363f2194e98dd82f345d6f3ffd2d89d0b6e
+<<<<<<< HEAD
 Sebastian Escobar-Mesa
+=======
+Kyler Martin-Yeboah
+>>>>>>> ab9437db72d63bda990bd462b85a7559ba7b72b6
